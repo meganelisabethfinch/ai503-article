@@ -1,0 +1,8 @@
+jupyter
+jupyterlab
+matplotlib
+GPy
+ipykernel
+notebook>=5.3
+ipywidgets>=7.5
+plotly
