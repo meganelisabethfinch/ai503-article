@@ -11,3 +11,4 @@ Then start the notebook with
 
     python -m ipykernel install --user --name=ai503
     jupyter notebook
+
